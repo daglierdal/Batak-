@@ -1,0 +1,16 @@
+{
+  "name": "Batak Skor Tablosu",
+  "short_name": "Batak",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0d0604",
+  "theme_color": "#0d0604",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
